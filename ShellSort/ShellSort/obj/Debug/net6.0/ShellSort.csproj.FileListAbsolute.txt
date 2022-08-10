@@ -1,0 +1,15 @@
+D:\Jeevitha\C#\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.exe
+D:\Jeevitha\C#\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.deps.json
+D:\Jeevitha\C#\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.runtimeconfig.json
+D:\Jeevitha\C#\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.dll
+D:\Jeevitha\C#\ShellSort\ShellSort\bin\Debug\net6.0\ShellSort.pdb
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.csproj.AssemblyReference.cache
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.AssemblyInfoInputs.cache
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.AssemblyInfo.cs
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.csproj.CoreCompileInputs.cache
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.dll
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\refint\ShellSort.dll
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.pdb
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ShellSort.genruntimeconfig.cache
+D:\Jeevitha\C#\ShellSort\ShellSort\obj\Debug\net6.0\ref\ShellSort.dll
